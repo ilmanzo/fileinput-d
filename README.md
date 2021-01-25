@@ -1,5 +1,5 @@
 # fileinput-d
-A D language implementation of [Python's fileinput](https://docs.python.org/3/library/fileinput.html)
+A D language implementation of [Python's fileinput](https://docs.python.org/3/library/fileinput.html) module
 
 
 ## usage
