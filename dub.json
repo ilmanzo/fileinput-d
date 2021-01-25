@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"Andrea Manzini"
+	],
+	"copyright": "Copyright © 2021, Andrea Manzini",
+	"description": "file input range iterator",
+	"license": "MIT",
+	"name": "fileinput-d",
+	"targetType": "library"
+}

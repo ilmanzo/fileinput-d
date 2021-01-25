@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fileinput-d
+fileinput-d.so
+fileinput-d.dylib
+fileinput-d.dll
+fileinput-d.a
+fileinput-d.lib
+fileinput-d-test-*
+*.exe
+*.o
+*.obj
+*.lst
+libfileinput-d.a

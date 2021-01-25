@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/fileinput-example
+fileinput-example.so
+fileinput-example.dylib
+fileinput-example.dll
+fileinput-example.a
+fileinput-example.lib
+fileinput-example-test-*
+*.exe
+*.o
+*.obj
+*.lst

@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Andrea Manzini"
+	],
+	"copyright": "Copyright © 2021, Andrea Manzini",
+	"description": "example for fileinput library",
+	"license": "MIT",
+	"name": "fileinput-example",
+	"dependencies": {
+		"fileinput-d": { "path": ".." }
+	},
+	"targetType": "executable"
+}
